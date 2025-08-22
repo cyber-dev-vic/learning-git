@@ -23,7 +23,7 @@ The goal is to build a strong foundation in front-end web development by explori
 ---
 
 ##  How to Use
-1. Clone the repository:
+1. Clone the repository
+2. Copy the command below:
    ```bash terminal
-  copy the command below
    git clone https://github.com/cyber-dev-vic/learning_html.css.git
